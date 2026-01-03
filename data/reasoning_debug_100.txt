@@ -1,0 +1,724 @@
+<doc>
+Question: 13 + 45?
+
+Reasoning:
+Step 1: Add 13 and 45
+Step 2: 13 + 45 = 58
+
+Answer: 58
+</doc>
+
+<doc>
+Question: 40 × 4?
+
+Reasoning:
+Step 1: Decompose 40 into 40 and 0
+Step 2: Multiply 40 × 4 = 160
+Step 3: Multiply 0 × 4 = 0
+Step 4: Add 160 + 0 = 160
+
+Answer: 160
+</doc>
+
+<doc>
+Question: 96 + 79?
+
+Reasoning:
+Step 1: Add 96 and 79
+Step 2: 96 + 79 = 175
+
+Answer: 175
+</doc>
+
+<doc>
+Question: 85 + 64?
+
+Reasoning:
+Step 1: Add 85 and 64
+Step 2: 85 + 64 = 149
+
+Answer: 149
+</doc>
+
+<doc>
+Question: 13 + 21?
+
+Reasoning:
+Step 1: Add 13 and 21
+Step 2: 13 + 21 = 34
+
+Answer: 34
+</doc>
+
+<doc>
+Question: 41 × 2?
+
+Reasoning:
+Step 1: Decompose 41 into 40 and 1
+Step 2: Multiply 40 × 2 = 80
+Step 3: Multiply 1 × 2 = 2
+Step 4: Add 80 + 2 = 82
+
+Answer: 82
+</doc>
+
+<doc>
+Question: 95 × 8?
+
+Reasoning:
+Step 1: Decompose 95 into 90 and 5
+Step 2: Multiply 90 × 8 = 720
+Step 3: Multiply 5 × 8 = 40
+Step 4: Add 720 + 40 = 760
+
+Answer: 760
+</doc>
+
+<doc>
+Question: 69 × 6?
+
+Reasoning:
+Step 1: Decompose 69 into 60 and 9
+Step 2: Multiply 60 × 6 = 360
+Step 3: Multiply 9 × 6 = 54
+Step 4: Add 360 + 54 = 414
+
+Answer: 414
+</doc>
+
+<doc>
+Question: 30 + 99?
+
+Reasoning:
+Step 1: Add 30 and 99
+Step 2: 30 + 99 = 129
+
+Answer: 129
+</doc>
+
+<doc>
+Question: Which number is greater, 53 or 45?
+
+Reasoning:
+Step 1: Compare the two numbers
+Step 2: 53 is larger than the other number
+
+Answer: 53
+</doc>
+
+<doc>
+Question: 39 × 7?
+
+Reasoning:
+Step 1: Decompose 39 into 30 and 9
+Step 2: Multiply 30 × 7 = 210
+Step 3: Multiply 9 × 7 = 63
+Step 4: Add 210 + 63 = 273
+
+Answer: 273
+</doc>
+
+<doc>
+Question: 21 + 58?
+
+Reasoning:
+Step 1: Add 21 and 58
+Step 2: 21 + 58 = 79
+
+Answer: 79
+</doc>
+
+<doc>
+Question: 55 + 54?
+
+Reasoning:
+Step 1: Add 55 and 54
+Step 2: 55 + 54 = 109
+
+Answer: 109
+</doc>
+
+<doc>
+Question: 34 ÷ 2?
+
+Reasoning:
+Step 1: Recognize that 34 is divisible by 2
+Step 2: Divide 34 by 2
+Step 3: 34 ÷ 2 = 17
+
+Answer: 17
+</doc>
+
+<doc>
+Question: 58 + 20?
+
+Reasoning:
+Step 1: Add 58 and 20
+Step 2: 58 + 20 = 78
+
+Answer: 78
+</doc>
+
+<doc>
+Question: 63 ÷ 7?
+
+Reasoning:
+Step 1: Recognize that 63 is divisible by 7
+Step 2: Divide 63 by 7
+Step 3: 63 ÷ 7 = 9
+
+Answer: 9
+</doc>
+
+<doc>
+Question: 15 + 94?
+
+Reasoning:
+Step 1: Add 15 and 94
+Step 2: 15 + 94 = 109
+
+Answer: 109
+</doc>
+
+<doc>
+Question: 49 × 3?
+
+Reasoning:
+Step 1: Decompose 49 into 40 and 9
+Step 2: Multiply 40 × 3 = 120
+Step 3: Multiply 9 × 3 = 27
+Step 4: Add 120 + 27 = 147
+
+Answer: 147
+</doc>
+
+<doc>
+Question: 24 × 8?
+
+Reasoning:
+Step 1: Decompose 24 into 20 and 4
+Step 2: Multiply 20 × 8 = 160
+Step 3: Multiply 4 × 8 = 32
+Step 4: Add 160 + 32 = 192
+
+Answer: 192
+</doc>
+
+<doc>
+Question: 126 ÷ 9?
+
+Reasoning:
+Step 1: Recognize that 126 is divisible by 9
+Step 2: Divide 126 by 9
+Step 3: 126 ÷ 9 = 14
+
+Answer: 14
+</doc>
+
+<doc>
+Question: 59 × 7?
+
+Reasoning:
+Step 1: Decompose 59 into 50 and 9
+Step 2: Multiply 50 × 7 = 350
+Step 3: Multiply 9 × 7 = 63
+Step 4: Add 350 + 63 = 413
+
+Answer: 413
+</doc>
+
+<doc>
+Question: 97 × 6?
+
+Reasoning:
+Step 1: Decompose 97 into 90 and 7
+Step 2: Multiply 90 × 6 = 540
+Step 3: Multiply 7 × 6 = 42
+Step 4: Add 540 + 42 = 582
+
+Answer: 582
+</doc>
+
+<doc>
+Question: 87 + 91?
+
+Reasoning:
+Step 1: Add 87 and 91
+Step 2: 87 + 91 = 178
+
+Answer: 178
+</doc>
+
+<doc>
+Question: 80 × 5?
+
+Reasoning:
+Step 1: Decompose 80 into 80 and 0
+Step 2: Multiply 80 × 5 = 400
+Step 3: Multiply 0 × 5 = 0
+Step 4: Add 400 + 0 = 400
+
+Answer: 400
+</doc>
+
+<doc>
+Question: 71 × 8?
+
+Reasoning:
+Step 1: Decompose 71 into 70 and 1
+Step 2: Multiply 70 × 8 = 560
+Step 3: Multiply 1 × 8 = 8
+Step 4: Add 560 + 8 = 568
+
+Answer: 568
+</doc>
+
+<doc>
+Question: 65 ÷ 5?
+
+Reasoning:
+Step 1: Recognize that 65 is divisible by 5
+Step 2: Divide 65 by 5
+Step 3: 65 ÷ 5 = 13
+
+Answer: 13
+</doc>
+
+<doc>
+Question: 39 + 14?
+
+Reasoning:
+Step 1: Add 39 and 14
+Step 2: 39 + 14 = 53
+
+Answer: 53
+</doc>
+
+<doc>
+Question: 88 ÷ 8?
+
+Reasoning:
+Step 1: Recognize that 88 is divisible by 8
+Step 2: Divide 88 by 8
+Step 3: 88 ÷ 8 = 11
+
+Answer: 11
+</doc>
+
+<doc>
+Question: 37 + 82?
+
+Reasoning:
+Step 1: Add 37 and 82
+Step 2: 37 + 82 = 119
+
+Answer: 119
+</doc>
+
+<doc>
+Question: 90 ÷ 5?
+
+Reasoning:
+Step 1: Recognize that 90 is divisible by 5
+Step 2: Divide 90 by 5
+Step 3: 90 ÷ 5 = 18
+
+Answer: 18
+</doc>
+
+<doc>
+Question: Which number is greater, 92 or 68?
+
+Reasoning:
+Step 1: Compare the two numbers
+Step 2: 92 is larger than the other number
+
+Answer: 92
+</doc>
+
+<doc>
+Question: 45 × 4?
+
+Reasoning:
+Step 1: Decompose 45 into 40 and 5
+Step 2: Multiply 40 × 4 = 160
+Step 3: Multiply 5 × 4 = 20
+Step 4: Add 160 + 20 = 180
+
+Answer: 180
+</doc>
+
+<doc>
+Question: 83 × 6?
+
+Reasoning:
+Step 1: Decompose 83 into 80 and 3
+Step 2: Multiply 80 × 6 = 480
+Step 3: Multiply 3 × 6 = 18
+Step 4: Add 480 + 18 = 498
+
+Answer: 498
+</doc>
+
+<doc>
+Question: Which number is greater, 84 or 61?
+
+Reasoning:
+Step 1: Compare the two numbers
+Step 2: 84 is larger than the other number
+
+Answer: 84
+</doc>
+
+<doc>
+Question: 35 ÷ 5?
+
+Reasoning:
+Step 1: Recognize that 35 is divisible by 5
+Step 2: Divide 35 by 5
+Step 3: 35 ÷ 5 = 7
+
+Answer: 7
+</doc>
+
+<doc>
+Question: Which number is greater, 21 or 16?
+
+Reasoning:
+Step 1: Compare the two numbers
+Step 2: 21 is larger than the other number
+
+Answer: 21
+</doc>
+
+<doc>
+Question: 29 + 90?
+
+Reasoning:
+Step 1: Add 29 and 90
+Step 2: 29 + 90 = 119
+
+Answer: 119
+</doc>
+
+<doc>
+Question: 99 × 8?
+
+Reasoning:
+Step 1: Decompose 99 into 90 and 9
+Step 2: Multiply 90 × 8 = 720
+Step 3: Multiply 9 × 8 = 72
+Step 4: Add 720 + 72 = 792
+
+Answer: 792
+</doc>
+
+<doc>
+Question: 59 + 58?
+
+Reasoning:
+Step 1: Add 59 and 58
+Step 2: 59 + 58 = 117
+
+Answer: 117
+</doc>
+
+<doc>
+Question: Which number is greater, 77 or 42?
+
+Reasoning:
+Step 1: Compare the two numbers
+Step 2: 77 is larger than the other number
+
+Answer: 77
+</doc>
+
+<doc>
+Question: 97 + 24?
+
+Reasoning:
+Step 1: Add 97 and 24
+Step 2: 97 + 24 = 121
+
+Answer: 121
+</doc>
+
+<doc>
+Question: 42 ÷ 7?
+
+Reasoning:
+Step 1: Recognize that 42 is divisible by 7
+Step 2: Divide 42 by 7
+Step 3: 42 ÷ 7 = 6
+
+Answer: 6
+</doc>
+
+<doc>
+Question: 64 ÷ 8?
+
+Reasoning:
+Step 1: Recognize that 64 is divisible by 8
+Step 2: Divide 64 by 8
+Step 3: 64 ÷ 8 = 8
+
+Answer: 8
+</doc>
+
+<doc>
+Question: Which number is greater, 10 or 43?
+
+Reasoning:
+Step 1: Compare the two numbers
+Step 2: 43 is larger than the other number
+
+Answer: 43
+</doc>
+
+<doc>
+Question: 76 × 3?
+
+Reasoning:
+Step 1: Decompose 76 into 70 and 6
+Step 2: Multiply 70 × 3 = 210
+Step 3: Multiply 6 × 3 = 18
+Step 4: Add 210 + 18 = 228
+
+Answer: 228
+</doc>
+
+<doc>
+Question: 35 ÷ 5?
+
+Reasoning:
+Step 1: Recognize that 35 is divisible by 5
+Step 2: Divide 35 by 5
+Step 3: 35 ÷ 5 = 7
+
+Answer: 7
+</doc>
+
+<doc>
+Question: 80 ÷ 4?
+
+Reasoning:
+Step 1: Recognize that 80 is divisible by 4
+Step 2: Divide 80 by 4
+Step 3: 80 ÷ 4 = 20
+
+Answer: 20
+</doc>
+
+<doc>
+Question: 86 + 51?
+
+Reasoning:
+Step 1: Add 86 and 51
+Step 2: 86 + 51 = 137
+
+Answer: 137
+</doc>
+
+<doc>
+Question: Which number is greater, 12 or 24?
+
+Reasoning:
+Step 1: Compare the two numbers
+Step 2: 24 is larger than the other number
+
+Answer: 24
+</doc>
+
+<doc>
+Question: 60 ÷ 6?
+
+Reasoning:
+Step 1: Recognize that 60 is divisible by 6
+Step 2: Divide 60 by 6
+Step 3: 60 ÷ 6 = 10
+
+Answer: 10
+</doc>
+
+<doc>
+Question: 40 + 82?
+
+Reasoning:
+Step 1: Add 40 and 82
+Step 2: 40 + 82 = 122
+
+Answer: 122
+</doc>
+
+<doc>
+Question: 20 + 72?
+
+Reasoning:
+Step 1: Add 20 and 72
+Step 2: 20 + 72 = 92
+
+Answer: 92
+</doc>
+
+<doc>
+Question: 78 + 26?
+
+Reasoning:
+Step 1: Add 78 and 26
+Step 2: 78 + 26 = 104
+
+Answer: 104
+</doc>
+
+<doc>
+Question: 96 × 9?
+
+Reasoning:
+Step 1: Decompose 96 into 90 and 6
+Step 2: Multiply 90 × 9 = 810
+Step 3: Multiply 6 × 9 = 54
+Step 4: Add 810 + 54 = 864
+
+Answer: 864
+</doc>
+
+<doc>
+Question: 45 × 8?
+
+Reasoning:
+Step 1: Decompose 45 into 40 and 5
+Step 2: Multiply 40 × 8 = 320
+Step 3: Multiply 5 × 8 = 40
+Step 4: Add 320 + 40 = 360
+
+Answer: 360
+</doc>
+
+<doc>
+Question: 81 × 5?
+
+Reasoning:
+Step 1: Decompose 81 into 80 and 1
+Step 2: Multiply 80 × 5 = 400
+Step 3: Multiply 1 × 5 = 5
+Step 4: Add 400 + 5 = 405
+
+Answer: 405
+</doc>
+
+<doc>
+Question: 112 ÷ 8?
+
+Reasoning:
+Step 1: Recognize that 112 is divisible by 8
+Step 2: Divide 112 by 8
+Step 3: 112 ÷ 8 = 14
+
+Answer: 14
+</doc>
+
+<doc>
+Question: Which number is greater, 76 or 67?
+
+Reasoning:
+Step 1: Compare the two numbers
+Step 2: 76 is larger than the other number
+
+Answer: 76
+</doc>
+
+<doc>
+Question: 41 + 38?
+
+Reasoning:
+Step 1: Add 41 and 38
+Step 2: 41 + 38 = 79
+
+Answer: 79
+</doc>
+
+<doc>
+Question: 53 + 12?
+
+Reasoning:
+Step 1: Add 53 and 12
+Step 2: 53 + 12 = 65
+
+Answer: 65
+</doc>
+
+<doc>
+Question: 87 × 5?
+
+Reasoning:
+Step 1: Decompose 87 into 80 and 7
+Step 2: Multiply 80 × 5 = 400
+Step 3: Multiply 7 × 5 = 35
+Step 4: Add 400 + 35 = 435
+
+Answer: 435
+</doc>
+
+<doc>
+Question: 19 + 90?
+
+Reasoning:
+Step 1: Add 19 and 90
+Step 2: 19 + 90 = 109
+
+Answer: 109
+</doc>
+
+<doc>
+Question: 39 + 18?
+
+Reasoning:
+Step 1: Add 39 and 18
+Step 2: 39 + 18 = 57
+
+Answer: 57
+</doc>
+
+<doc>
+Question: 52 + 19?
+
+Reasoning:
+Step 1: Add 52 and 19
+Step 2: 52 + 19 = 71
+
+Answer: 71
+</doc>
+
+<doc>
+Question: 47 × 9?
+
+Reasoning:
+Step 1: Decompose 47 into 40 and 7
+Step 2: Multiply 40 × 9 = 360
+Step 3: Multiply 7 × 9 = 63
+Step 4: Add 360 + 63 = 423
+
+Answer: 423
+</doc>
+
+<doc>
+Question: 81 × 4?
+
+Reasoning:
+Step 1: Decompose 81 into 80 and 1
+Step 2: Multiply 80 × 4 = 320
+Step 3: Multiply 1 × 4 = 4
+Step 4: Add 320 + 4 = 324
+
+Answer: 324
+</doc>
+
+<doc>
+Question: Which number is greater, 41 or 70?
+
+Reasoning:
+Step 1: Compare the two numbers
+Step 2: 70 is larger than the other number
+
+Answer: 70
+</doc>

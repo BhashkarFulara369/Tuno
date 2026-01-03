@@ -1,0 +1,18 @@
+:::::::::::::: Current Issue with reasoning in sft data :::::::::::::::
+*** BIG DATA IS FOR RESULTS ** SMAll data is for understanding ***
+
+
+But we are leaning now it is acceptable
+Issue 1: Redundant / Degenerate Reasoning Steps
+Step 1: Add 13 and 45
+Step 2: 13 + 45 = 58
+It is logically correct, but Step 1 adds no information.
+
+Issue 2: Some Trivial Decompositions
+Decompose 40 into 40 and 0
+This is mathematically fine, but:
+Adds noise
+Teaches unnecessary patterns
+
+Issue 3: Dataset Homogeneity
+All reasoning follows one pattern.
